@@ -1,5 +1,5 @@
 const CONFIG = {
-  SHEET_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSIogxpKcSqLtVo6nhfTxL7YKt0y78JjxQ7LANTz7BVNyL2jPDsxxJ6ug8tp6ZPfbFCWLzeztBMhlcH/pub?gid=896850664&single=true&output=csv',
+  SHEET_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSIogxpKcSqLtVo6nhfTxL7YKt0y78JjxQ7LANTz7BVNyL2jPDsxxJ6ug8tp6ZPfbFCWLzeztBMhlcH/pub?output=csv',
   FORM_URL: 'https://forms.gle/qHDZE21C1Tk58pfy8',
   REQUIRE_APPROVAL: true,
   USE_GAME_IFRAME_PREVIEW: false,
