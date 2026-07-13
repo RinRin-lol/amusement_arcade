@@ -4,13 +4,13 @@ const CONFIG = {
   REQUIRE_APPROVAL: true,
   USE_GAME_IFRAME_PREVIEW: false,
   COLUMNS: {
-    title: ['ゲーム名'],
-    author: ['ニックネーム'],
-    grade: ['学年区分'],
-    gameUrl: ['ゲームURL'],
-    imageUrl: ['スクリーンショットURL'],
-    comment: ['コメント'],
-    status: ['公開可否'],
+    title: ['ゲーム名を教えてください。'],
+    author: ['あなたのサイトにゲームを掲載する際のニックネームを教えてください。'],
+    grade: ['あなたの学年区分を教えてください。'],
+    gameUrl: ['作成したゲームのURLを教えてください。'],
+    imageUrl: ['ゲームの1場面のスクリーンショットのURLを教えてください。'],
+    comment: ['自分が作成したゲームのアピールポイントを書いてください。'],
+    status: ['公開の可否'],
   },
 };
 
